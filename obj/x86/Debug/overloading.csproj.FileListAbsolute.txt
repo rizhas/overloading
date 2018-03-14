@@ -1,0 +1,6 @@
+/home/edpo/Projects/overloading/overloading/obj/x86/Debug/overloading.csproj.CoreCompileInputs.cache
+/home/edpo/Projects/overloading/overloading/bin/Debug/overloading.exe
+/home/edpo/Projects/overloading/overloading/bin/Debug/overloading.pdb
+/home/edpo/Projects/overloading/overloading/obj/x86/Debug/overloading.exe
+/home/edpo/Projects/overloading/overloading/obj/x86/Debug/overloading.pdb
+/home/edpo/Projects/overloading/overloading/obj/x86/Debug/overloading.csprojResolveAssemblyReference.cache
